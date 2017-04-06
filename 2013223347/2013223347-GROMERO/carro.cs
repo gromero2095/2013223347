@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2013223347_GROMERO
 {
-    public class carro
+    abstract class carro
     {
         llanta     _llanta;
         Asiento    _asiento;
