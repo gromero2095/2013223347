@@ -8,5 +8,19 @@ namespace _2013223347_GROMERO
 {
     class Asiento
     {
+        cinturon _cinturon;
+        public String NumSerie { get; set; }
+
+        public Asiento()
+        {
+
+        }
+
+        public Asiento(String _numSerie)
+        {
+            _cinturon = new cinturon();
+            NumSerie = _numSerie;
+        }
     }
+    
 }

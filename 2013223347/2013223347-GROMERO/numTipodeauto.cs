@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace _2013223347_GROMERO
 {
-    class numTipodeauto
+    enum numTipodeauto
     {
+        Sedan,PickUp,Coupe,HatchBack,NoDefinido
+
     }
 }

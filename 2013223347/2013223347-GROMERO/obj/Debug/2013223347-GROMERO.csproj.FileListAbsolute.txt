@@ -1,0 +1,5 @@
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013223347\2013223347\2013223347-GROMERO\bin\Debug\2013223347-GROMERO.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013223347\2013223347\2013223347-GROMERO\bin\Debug\2013223347-GROMERO.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013223347\2013223347\2013223347-GROMERO\obj\Debug\2013223347-GROMERO.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013223347\2013223347\2013223347-GROMERO\obj\Debug\2013223347-GROMERO.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013223347\2013223347\2013223347-GROMERO\obj\Debug\2013223347-GROMERO.pdb

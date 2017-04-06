@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace _2013223347_GROMERO
 {
-    class automovil
+    class automovil:carro
     {
+        public numTipodeauto TipoAuto { get; set; }
+
+        public automovil() :base()
+        {
+
+        }
+
     }
 }

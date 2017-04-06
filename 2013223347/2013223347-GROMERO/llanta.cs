@@ -8,5 +8,17 @@ namespace _2013223347_GROMERO
 {
     class llanta
     {
+
+        public string NumSerie { get; set; }
+
+        public llanta()
+        {
+        }
+
+        public llanta(string _numSerie)
+        {
+            NumSerie = _numSerie;
+        }
+    
     }
 }
