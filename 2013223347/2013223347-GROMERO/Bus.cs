@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2013223347_GROMERO
 {
-    class Bus
+    class Bus: carro
     {
         public numTipodebus TipoBus { get; set; }
 
