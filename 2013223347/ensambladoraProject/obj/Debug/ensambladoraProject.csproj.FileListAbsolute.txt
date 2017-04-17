@@ -1,0 +1,8 @@
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject\obj\Debug\ensambladoraProject.csprojResolveAssemblyReference.cache
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject\bin\Debug\ensambladoraProject.exe.config
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject\bin\Debug\ensambladoraProject.exe
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject\bin\Debug\ensambladoraProject.pdb
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject\bin\Debug\ensambladoraProject.Entities.dll
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject\bin\Debug\ensambladoraProject.Entities.pdb
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject\obj\Debug\ensambladoraProject.exe
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject\obj\Debug\ensambladoraProject.pdb

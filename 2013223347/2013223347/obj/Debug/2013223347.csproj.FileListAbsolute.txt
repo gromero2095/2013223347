@@ -1,8 +1,0 @@
-C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013223347\2013223347\2013223347\bin\Debug\2013223347.exe.config
-C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013223347\2013223347\2013223347\bin\Debug\2013223347.exe
-C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013223347\2013223347\2013223347\bin\Debug\2013223347.pdb
-C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013223347\2013223347\2013223347\bin\Debug\2013223347-GROMERO.dll
-C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013223347\2013223347\2013223347\bin\Debug\2013223347-GROMERO.pdb
-C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013223347\2013223347\2013223347\obj\Debug\2013223347.csprojResolveAssemblyReference.cache
-C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013223347\2013223347\2013223347\obj\Debug\2013223347.exe
-C:\Users\Clase\Documents\Visual Studio 2013\Projects\2013223347\2013223347\2013223347\obj\Debug\2013223347.pdb

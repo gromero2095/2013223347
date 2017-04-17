@@ -1,0 +1,5 @@
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject.Entities\bin\Debug\ensambladoraProject.Entities.dll
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject.Entities\bin\Debug\ensambladoraProject.Entities.pdb
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.csprojResolveAssemblyReference.cache
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.dll
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.pdb
