@@ -21,7 +21,7 @@ namespace ensambladoraProject
             var a1 = a.ToString();
             var name = (TipoCarro)Enum.Parse(typeof(TipoCarro), a1);
 
-            // Carro carro = new Carro(volante, parabrisas,4,propietario,name
+            
             Carro carros;
             carros = new Carro();
             carros.NumSerieChasis = Console.ReadLine();

@@ -15,10 +15,7 @@ namespace ensambladoraProject.Entities
         int numAsiento;
        public  Automovil(Volante volante, Parabrisas parabrisas, int numAsientos, Propietario propietario, TipoAuto tipoAuto) {
             TipoAuto= tipoAuto;
-             /*volante= _volante;
-            _parabrisas = parabrisas;
-            _propietario = propietario;
-            numAsiento = numAsientos;*/
+           
         }
     }
 }
